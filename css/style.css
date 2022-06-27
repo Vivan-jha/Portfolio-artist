@@ -2341,8 +2341,7 @@ img {
 .project-category{
   color: #cccccc;
   margin-top: 0.5rem;
-  mask-image: linear-gradient(rgb(56, 55, 71), rgba(154, 154, 8, 0.5)),
-  url("/artist.jpg");
+ 
 }
 
 .project-box:hover{
